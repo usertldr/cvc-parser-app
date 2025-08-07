@@ -1,3 +1,0 @@
-flask
-PyPDF2
-werkzeug
